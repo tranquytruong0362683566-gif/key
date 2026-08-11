@@ -1,4 +1,6 @@
 {
   "instructions": "Thêm KEY do extension hiển thị vào allowedKeys rồi upload file này vào thư mục gốc của GitHub Pages repository key.",
-  "allowedKeys": []
+  "allowedKeys": [
+    "TQT-KEY-109BF38DE97B11EC4296E30E"
+  ]
 }
