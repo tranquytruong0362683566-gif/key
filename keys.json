@@ -1,0 +1,4 @@
+{
+  "instructions": "Thêm KEY do extension hiển thị vào allowedKeys rồi upload file này vào thư mục gốc của GitHub Pages repository key.",
+  "allowedKeys": []
+}
