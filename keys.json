@@ -1,6 +1,12 @@
 {
-  "instructions": "Thêm KEY do extension hiển thị vào allowedKeys rồi upload file này vào thư mục gốc của GitHub Pages repository key.",
   "allowedKeys": [
-    "TQT-939E6D81C7B98180A3145209964"
+    {
+      "key": "TQT-939E6D81C7B98180A3145209964",
+      "active": true
+    },
+    {
+      "key": "TQT-89ABCDEF0123456789ABCDEF012",
+      "active": true
+    }
   ]
 }
